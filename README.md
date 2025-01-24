@@ -1,5 +1,4 @@
-# TicTacToe
-TicTacToe Game
+Simple PvP tic-tac-toe game that can be played with mouse.
 
 
 
